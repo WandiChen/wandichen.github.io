@@ -2,9 +2,6 @@
 layout: page
 title: WanDi.Chen作品集
 image: '/images/cwd/1.png'
----
-
-![1](/images/cwd/1.png)
 
 ---
 
