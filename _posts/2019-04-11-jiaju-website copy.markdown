@@ -24,3 +24,7 @@ image: '/images/cwd/3-1.png'
 ![5](/images/cwd/3-6.png)
 
 ---
+
+![thanks](/images/cwd/thanks.png)
+
+---
